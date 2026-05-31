@@ -1,0 +1,12 @@
+*.csv
+*.dat
+*.bak
+*.enc
+*.dec
+*.exe
+*.o
+*.obj
+New_Text_Document.txt
+.vscode/
+Debug/
+Release/
